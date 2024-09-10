@@ -198,3 +198,8 @@ footer {
         opacity: 1;
     }
 }
+
+.slideshow {
+    max-width: 90vw;
+    max-height: 90vh;
+}
